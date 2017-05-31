@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="@string/recent"
+    android:id="@+id/recent"
+    android:icon="@mipmap/ic_whatshot_white_24dp"/>
+    <item android:title="@string/favorite"
+        android:id="@+id/favorite"
+        android:icon="@mipmap/ic_favorite_white_24dp"/>
+    <item android:id="@+id/popular"
+        android:title="@string/popular"
+        android:icon="@mipmap/ic_star_white_24dp"/>
+</menu>

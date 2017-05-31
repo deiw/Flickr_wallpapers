@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Flickr_wallpapers</string>
+    <string name="error">Ups, something went wrong</string>
+    <string name="recent">New</string>
+    <string name="popular">Popular</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="empty">The field is empty</string>
+    <string name="success">Wallpaper setted!</string>
+    <string name="set">SET WALLPAPER</string>
+</resources>
